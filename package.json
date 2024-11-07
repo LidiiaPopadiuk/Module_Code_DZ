@@ -1,0 +1,20 @@
+{
+  "name": "modulecode_dz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./index.html",
+    "build": "parcel build ./index.html --public-url /Module_Code_DZ/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.12.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.2.0",
+    "parcel-bundler": "^1.12.5"
+  }
+}
